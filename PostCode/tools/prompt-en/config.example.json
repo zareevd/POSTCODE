@@ -1,0 +1,5 @@
+{
+  "upstreamRoot": "C:/Users/YOU/AppData/Local/CodexTools/prompt-optimizer/v2.16.0",
+  "baseURL": "http://127.0.0.1:11434/v1",
+  "model": "qwen3:8b"
+}
